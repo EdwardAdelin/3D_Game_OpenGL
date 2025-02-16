@@ -4,7 +4,7 @@
 # Intrusctions
 Unarchive GameEngine, GameEngine.VC and Dependencies. The files shall be extracted in the root directory.
 Unarchive Resources in the GameEngine folder (folder obtained after extracting it from the archive).
-The arhivation of the files has been done due to GIT filesize limits.
+The arhivation of the files has been done due to GIT filesize limits. You will need Visual Studio 2022 to edit and run this game.
 
 
 # 3D Game in OpenGL
@@ -22,7 +22,7 @@ This is a 3D game built using OpenGL, featuring real-time rendering, dynamic lig
 
 ## Installation
 1. Clone the repository:
-2. Compile and run in Visual  Studio 2022 
+2. Compile and run in Visual Studio 2022 
 
 ## Controls
 - `IJKL` - Move
